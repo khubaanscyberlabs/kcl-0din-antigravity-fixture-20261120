@@ -28,3 +28,5 @@ jobs:
 
           END_SYNTHETIC_DIAGNOSTIC
           LOG
+
+          echo "KCL-0DIN-RUNTIME-PROOF-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
